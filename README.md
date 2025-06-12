@@ -1,23 +1,20 @@
-# My IT Lab Projects
+# My IT Lab Journal
 
-Welcome to my technical portfolio! I'm an experienced IT Helpdesk Executive learning to become a System Administrator. This repository contains:
+Hi! I'm Mike Siva, an experienced IT Helpdesk Executive on a mission to become a System Administrator.
 
-- Hands-on Windows Server 2019 lab configurations
-- Microsoft 365 administration walkthroughs
-- Network setup examples (DHCP, DNS, VPN)
-- PowerShell scripts and troubleshooting notes
+This is where I will document all my technical labs and learning progress.
+
+## Goals:
+- Learn Windows Server 2019 (Active Directory, DNS, DHCP, GPO)
+- Practice Microsoft 365 Administration (users, Exchange, Intune)
+- Get better at networking and security (firewalls, backups, PowerShell)
+
+## Planned Labs:
+1. Install Windows Server 2019 on VirtualBox
+2. Set up a domain and create users
+3. Configure DNS and DHCP
+4. Explore Microsoft 365 Admin Center
 
 ---
 
-## Projects
-
-### 1. Windows Server 2019 - Active Directory Lab
-- Set up domain controller on VirtualBox
-- Configured AD, DNS, DHCP, and GPO
-- Created users, OUs, and login policies
-
-### 2. Microsoft 365 Tenant Lab
-- Created dev tenant via Microsoft 365 Developer Program
-- Added users, set mailbox policies, explored Intune setup
-
-More coming soon!
+Stay tuned – more coming soon!
