@@ -1,6 +1,7 @@
 # My IT Lab Journal
 
-Hi! I'm Mike Siva, an experienced IT Helpdesk Executive on a mission to become a System Administrator.
+👋 Hi! I'm Mike Siva, an experienced IT Helpdesk Executive on a mission to become a System Administrator, IT helpdesk, IT Manager.
+I'm a hands-on learner building my path into IT and Systems Administration.I use this GitHub to document and version every step of my home lab journey — from Windows Server deployment to AD, GPOs, PowerShell scripting, backups, and more.
 
 This is where I will document all my technical labs and learning progress.
 
@@ -15,12 +16,7 @@ This is where I will document all my technical labs and learning progress.
 3. Configure DNS and DHCP
 4. Explore Microsoft 365 Admin Center
 
----
 
-Stay tuned – more coming soon!
-👋 Hi, I'm [Your Name]
-
-I'm a hands-on learner building my path into IT and Systems Administration.I use this GitHub to document and version every step of my home lab journey — from Windows Server deployment to AD, GPOs, PowerShell scripting, backups, and more.
 
 🔧 Current Focus
 
